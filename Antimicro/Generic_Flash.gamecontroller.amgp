@@ -449,10 +449,26 @@
                     </slot>
                 </slots>
             </button>
-            <button index="5">
+            <button index="7">
                 <slots>
                     <slot>
                         <code>0x50</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+            <button index="5">
+                <slots>
+                    <slot>
+                        <code>0x51</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+            <button index="10">
+                <slots>
+                    <slot>
+                        <code>0x44</code>
                         <mode>keyboard</mode>
                     </slot>
                 </slots>
